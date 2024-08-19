@@ -43,7 +43,7 @@ class EstudiantesController {
                 if(err){
                     res.status(400).send(err.message);
                 }
-                res.status(200).json({
+                res.status(201).json({
                     msg: 'Estudiante creado',
                     id: result.insertId
                 });
