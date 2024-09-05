@@ -1,4 +1,4 @@
-# API with node and express working on mysql
+# Basic API created in node.js and express with mysql db
 
 This API is designed to help understand its basic functionalities. It is a simple project and does not have a high level of complexity.
 
